@@ -13,8 +13,8 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -24,8 +24,3 @@ My name is Aayush Singha Roy and I'm currently pursuing a PhD at the [University
 
 I'm a member of the [Insight Centre for Data Analytics](https://www.insight-centre.org/) and I'm currently working under the supervision of  [Prof. Neil Hurley](https://scholar.google.com/citations?user=Xy75cgsW65QC&hl=en&oi=ao). 
 
- <!-- I believe the right **mindset** is key to achieving success in any aspect of life. I embrace challenges and difficulties as opportunities to learn and grow, and in my free time, I indulge in my hobbies and interests such as running and playing guitar while constantly seeking ways to improve myself.
-
- With a strong work ethic and a growth mindset, I am determined to make a meaningful impact in the field of artificial intelligence. Whether it's through my academic or my personal pursuits. 
-
- **I am always striving to be the best version of myself.** -->
