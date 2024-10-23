@@ -22,7 +22,14 @@
     #   year: 2019 - ACM
     #   description:
     #     - Final Position 10 over 585 groups (top 2%)
-
+- title: Internship 
+    - title: Media Data Science Research (MDSR) Lab PhD Intern
+      institution: Adobe India, Noida
+      year: May 2024 - Aug 2024
+      description:
+        - LLM Planning
+        - Student-Teacher Model
+        - Scienceworld Environment
 - title: Education
   type: time_table
   contents:
