@@ -14,17 +14,7 @@
       year: 2022 - Kaggle
       description:
         - Final Position 43 over 2954 teams (top 2%)
-    # - title: <a href="https://github.com/damicoedoardo/RecSysChallenge2022">RecSys challenge </a>
-    #   year: 2022 - ACM
-    #   description:
-    #     - Final Position 18 over 303 teams (top 6%)
-    # - title: <a href="https://github.com/federicoparroni/recsys2019">RecSys challenge </a>
-    #   year: 2019 - ACM
-    #   description:
-    #     - Final Position 10 over 585 groups (top 2%)
-- title: Internships
-  type: time_table
-  contents:
+
     - title: Media Data Science Research (MDSR) Lab PhD Intern
       institution: Adobe India, Noida
       year: May 2024 - Aug 2024
