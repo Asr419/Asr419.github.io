@@ -6,15 +6,47 @@
     - name: Languages
       value: English, Hindi, Bengali
 
-- title: Challenges
+
+- title: Work Experience
   type: time_table
   contents:
     
-    - title: <a href="https://github.com/codespaces">H&M personalized fashion recommendation </a>
-      year: 2022 - Kaggle
+    - title: Research Scientist
+      Company: NielsenIQ, Pune, India
+      year: May 2026 - Present
       description:
-        - Final Position 43 over 2954 teams (top 2%)
+        - Recommendation Systems
+        - Knowledge Graphs
+        - Hugging Face Transformers
 
+    - title: Data Science Manager
+      Company: Procter & Gamble, Mumbai, India
+      year: Dec 2025 - May 2026
+      description:
+        - Working with PGHL
+        - Recommendation of Healthcare Stores
+        - USD 3M + increase in sales
+
+    - title: Graduate Engineer
+      Company: ANZ Operations and Technology, Bangalore, India
+      year: Jun 2021 - Dec 2021
+      description:
+        - Ideation POCs
+        - Gamification and Personalization
+
+- title: PhD Internships and Competitions 
+  type: time_table
+  contents:
+    
+    - title: PhD Intern
+      institution: Adobe Research, Bangalore
+      year: May 2025 - Aug 2025
+      description:
+        - Multi-Agent Pipeline
+        - Marketing Strategies
+        - Data Analysis Agent
+
+    
     - title: Media Data Science Research (MDSR) Lab PhD Intern
       institution: Adobe India, Noida
       year: May 2024 - Aug 2024
@@ -22,6 +54,16 @@
         - LLM Planning
         - Student-Teacher Model
         - Scienceworld Environment
+
+    - title: <a href="https://github.com/codespaces">H&M personalized fashion recommendation </a>
+      year: 2022 - Kaggle
+      description:
+        - Final Position 43 over 2954 teams (top 2%)
+
+
+
+    
+
 - title: Education
   type: time_table
   contents:
