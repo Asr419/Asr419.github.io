@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-My name is Aayush Singha Roy and I'm currently working as a Research Scientist at NielsenIQ in Recommendation System Group within the Core Models Team as part of Architecture and Innovation Wing. I have pursued PhD in Computer Science from [University College of Dublin](https://www.ucd.ie/) where I am specializing in the field of A.I. with a focus on session based slate recommender systems algorithms.
+My name is Aayush Singha Roy and I'm currently working as a Research Scientist at [NielsenIQ](https://nielseniq.com/global/en/) in Recommendation System Group within the Core Models Team as part of Architecture and Innovation Wing. I have pursued PhD in Computer Science from [University College of Dublin](https://www.ucd.ie/) where I am specializing in the field of A.I. with a focus on session based slate recommender systems algorithms.
 
 I have been a member of the [Insight Centre for Data Analytics](https://www.insight-centre.org/) and I did my PhD under the supervision of  [Prof. Neil Hurley](https://scholar.google.com/citations?user=Xy75cgsW65QC&hl=en&oi=ao). I finished my Summer Internship 2025 and 2024 at Adobe Research and Adobe India with Media Data Science Research (MDSR) Lab, respectively. I have a MS Research from IIT Delhi and a BS in Mathematics from NIT Agartala.
 
